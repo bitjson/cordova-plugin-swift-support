@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-  id="cordova-plugin-add-swift-support"
+  id="cordova-plugin-swift-support"
   version="3.0.1" >
 
   <name>SwiftSupport</name>
