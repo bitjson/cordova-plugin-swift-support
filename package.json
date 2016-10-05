@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-swift-support",
-  "version": "3.0.2",
+  "version": "3.1.0",
   "description": "Add Swift 3 support for Cordova plugins",
   "homepage": "https://github.com/bitjson/cordova-plugin-swift-support",
   "cordova": {

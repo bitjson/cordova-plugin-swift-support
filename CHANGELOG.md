@@ -1,3 +1,13 @@
+<a name="3.1.0"></a>
+## [3.1.0](https://github.com/bitjson/cordova-plugin-swift-support/compare/3.0.2...v3.1.0) (2016-10-05)
+
+
+### Features
+
+* **hook:** set the new ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES ([b23e9a2](https://github.com/bitjson/cordova-plugin-swift-support/commit/b23e9a2))
+
+
+
 <a name="3.0.2"></a>
 ## [3.0.2](https://github.com/bitjson/cordova-plugin-swift-support/compare/3.0.1...v3.0.2) (2016-10-05)
 
