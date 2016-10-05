@@ -1,3 +1,8 @@
+<a name="3.0.1"></a>
+## [3.0.1](https://github.com/bitjson/cordova-plugin-swift-support/compare/3.0.0...v3.0.1) (2016-10-05)
+
+This release also updates the version in `plugin.xml` to prevent some unexpected behavior when installing via the CLI.
+
 <a name="3.0.0"></a>
 # [3.0.0](https://github.com/bitjson/cordova-plugin-swift-support/compare/1.3.2...v3.0.0) (2016-10-05)
 

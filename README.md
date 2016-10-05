@@ -12,11 +12,11 @@ This [Cordova plugin](https://www.npmjs.com/package/cordova-plugin-add-swift-sup
 
 You can add this plugin directly to your project:
 
-`cordova plugin add cordova-plugin-swift-support@3.0.0 --save`
+`cordova plugin add cordova-plugin-swift-support --save`
 
 Or add it as a dependency into your own plugin:
 
-`<dependency id="cordova-plugin-swift-support" version="3.0.0"/>`
+`<dependency id="cordova-plugin-swift-support" version="~3.0.1"/>`
 
 If needed, add a prefixed `Bridging-Header` file in your plugin in order to import frameworks (`MyPlugin-Bridging-Header.h`, for instance).
 As an example you can have a look at this [plugin](https://github.com/akofman/cordova-plugin-permissionScope).
