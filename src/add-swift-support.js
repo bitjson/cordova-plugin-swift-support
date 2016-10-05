@@ -10,7 +10,9 @@
  *  - It puts the ios deployment target to 7.0 in case your project would have a
  *    lesser one.
  *
- *  - It updates the EMBEDDED_CONTENT_CONTAINS_SWIFT build setting to YES.
+ *  - It updates the ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES build setting to YES.
+ *
+ *  - It sets the SWIFT_VERSION build setting to '3.0'.
  */
 
 var fs = require('fs');
