@@ -1,3 +1,13 @@
+<a name="3.0.2"></a>
+## [3.0.2](https://github.com/bitjson/cordova-plugin-swift-support/compare/3.0.1...v3.0.2) (2016-10-05)
+
+
+### Bug Fixes
+
+* **install:** correct plugin ID to avoid warnings during fetch ([1301e21](https://github.com/bitjson/cordova-plugin-swift-support/commit/1301e21))
+
+
+
 <a name="3.0.1"></a>
 ## [3.0.1](https://github.com/bitjson/cordova-plugin-swift-support/compare/3.0.0...v3.0.1) (2016-10-05)
 
