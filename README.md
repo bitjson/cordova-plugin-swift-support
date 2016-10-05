@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/bitjson/cordova-plugin-swift-support.svg?branch=master)](https://travis-ci.org/bitjson/cordova-plugin-swift-support) [![npm](https://img.shields.io/npm/v/cordova-plugin-swift-support.svg)](https://www.npmjs.com/package/cordova-plugin-swift-support) [![npm](https://img.shields.io/npm/dm/cordova-plugin-swift-support.svg)](https://www.npmjs.com/package/cordova-plugin-swift-support)
+[![Dependency Status](https://david-dm.org/bitjson/cordova-plugin-swift-support.svg)](https://david-dm.org/bitjson/cordova-plugin-swift-support)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+
 # cordova-plugin-swift-support
 
 ![swift-128x128](https://cloud.githubusercontent.com/assets/579922/15999501/79196b48-3146-11e6-836e-061a7ef53571.png)
