@@ -24,7 +24,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "xcode": "^0.8.3"
+    "xcode": "^0.9.1"
   },
   "bundledDependencies": [
     "xcode"
