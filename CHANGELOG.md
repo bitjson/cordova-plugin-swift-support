@@ -1,3 +1,8 @@
+<a name="3.1.1"></a>
+## [3.1.1](https://github.com/bitjson/cordova-plugin-swift-support/compare/3.1.0...v3.1.1) (2017-02-14)
+
+
+
 <a name="3.1.0"></a>
 ## [3.1.0](https://github.com/bitjson/cordova-plugin-swift-support/compare/3.0.2...v3.1.0) (2016-10-05)
 
