@@ -8,6 +8,13 @@
 
 This [Cordova plugin](https://www.npmjs.com/package/cordova-plugin-add-swift-support) adds Swift 3 support to your iOS project.
 
+## Fork Status
+
+This is a divergent fork of [akofman/cordova-plugin-add-swift-support](https://github.com/akofman/cordova-plugin-add-swift-support).
+
+See [akofman/cordova-plugin-add-swift-support#24](https://github.com/akofman/cordova-plugin-add-swift-support/issues/24) for info on the differences.
+
+
 ## Installation
 
 You can add this plugin directly to your project:
